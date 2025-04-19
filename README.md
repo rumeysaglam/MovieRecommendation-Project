@@ -1,1 +1,1 @@
-# Netflix-Project
+# Movie Recommendation - Project
